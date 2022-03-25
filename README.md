@@ -1,6 +1,7 @@
 ### 👐🏽 Hi there 👐🏽
 
 My name is Stevie Ambroise.
+![Screen Shot 2022-01-24 at 12 16 47 PM](https://user-images.githubusercontent.com/89324625/160051628-de4ce118-6657-444e-9f04-bbe0f82a93b9.png)
 
 I am a software developer.
 - A poet.
@@ -61,3 +62,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
