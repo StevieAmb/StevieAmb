@@ -1,12 +1,12 @@
 ### 👐🏽 Hi there 👐🏽
 
 My name is Stevie Ambroise.
-![Screen Shot 2022-01-24 at 12 16 47 PM](https://user-images.githubusercontent.com/89324625/160051628-de4ce118-6657-444e-9f04-bbe0f82a93b9.png)
-
 I am a software developer.
 - A poet.
 - A musician.
 - A dancer.
+![Screen Shot 2022-02-16 at 1 25 58 PM](https://user-images.githubusercontent.com/89324625/160051833-7fa190c0-8d2d-4aef-89f9-869031812226.png)
+
 
 Software development is my love because it's another way for me to express myself and my values through creating.
 
@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
