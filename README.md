@@ -6,6 +6,7 @@ I am a software developer.
 - A poet.
 - A musician.
 - A dancer.
+
 Software development is my love because it's another way for me to express myself and my values through creating.
 
 
