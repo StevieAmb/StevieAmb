@@ -2,7 +2,7 @@
 ![Screen Shot 2022-02-16 at 1 25 58 PM](https://user-images.githubusercontent.com/89324625/160051833-7fa190c0-8d2d-4aef-89f9-869031812226.png)
 
 My name is Stevie Ambroise.
-I am a software developer.
+- I am a software developer.
 - A poet.
 - A musician.
 - A dancer.
