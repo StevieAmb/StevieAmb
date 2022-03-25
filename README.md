@@ -6,6 +6,7 @@ I am a software developer.
 - A musician.
 - A dancer.
 Software development is my love because it's another way for me to express myself and my values through creating.
+
 ![Screen Shot 2022-02-16 at 1 25 58 PM](https://user-images.githubusercontent.com/89324625/160051833-7fa190c0-8d2d-4aef-89f9-869031812226.png)
 
 
