@@ -8,6 +8,7 @@ My name is Stevie Ambroise.
 - A dancer.
 
 Software development is my love because it's another way for me to express myself and my values through creating.
+
 🎧Music is my life.🎧
 
 
