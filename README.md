@@ -7,7 +7,7 @@ My name is Stevie Ambroise.
 - A musician.
 - A dancer.
 
-Software development is my love because it's another way for me to express myself and my values through creating applications focused on positive user experience, and accessibility.
+Software development is my love because I love creating things to solve problems, and I would love to solve problems for you.
 
 🎧Music is my life.🎧
 
