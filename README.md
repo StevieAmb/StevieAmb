@@ -16,7 +16,8 @@ My name is Stevie Ambroise.
 <a href="https://www.linkedin.com/in/stevieambroise/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-### Coding Skills:
+### Coding Skills:![IMG_4201](https://github.com/StevieAmb/StevieAmb/assets/89324625/9a27d901-01cc-41a7-9877-e0a49da90fc0)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
