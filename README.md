@@ -1,5 +1,5 @@
 ### 👐🏽 Hi there 👐🏽
-![Screen Shot 2022-02-16 at 1 25 58 PM](https://user-images.githubusercontent.com/89324625/160051833-7fa190c0-8d2d-4aef-89f9-869031812226.png)
+[IMG_4201](https://github.com/StevieAmb/StevieAmb/assets/89324625/9a27d901-01cc-41a7-9877-e0a49da90fc0)
 
 My name is Stevie Ambroise.
 - I am a software developer/tester
@@ -16,7 +16,7 @@ My name is Stevie Ambroise.
 <a href="https://www.linkedin.com/in/stevieambroise/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-### Coding Skills:![IMG_4201](https://github.com/StevieAmb/StevieAmb/assets/89324625/9a27d901-01cc-41a7-9877-e0a49da90fc0)
+### Coding Skills:!
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
