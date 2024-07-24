@@ -1,5 +1,4 @@
 ### 👐🏽 Hi there 👐🏽
-[IMG_4201](https://github.com/StevieAmb/StevieAmb/assets/89324625/9a27d901-01cc-41a7-9877-e0a49da90fc0)
 
 My name is Stevie Ambroise.
 - I am a software developer/tester
