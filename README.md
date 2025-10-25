@@ -1,10 +1,10 @@
 ### 👐🏽 Hi there 👐🏽
 
 My name is Stevie Ambroise.
-- I am a software developer/tester
+- I am a software and web developer/tester.
 - A poet.
-- A musician.
-- A dancer.
+- A singer/musician.
+- A builder.
 
 
 
